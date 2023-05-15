@@ -1,1 +1,1 @@
-# Likes-Page
+# Likes-Page is a school assignment
