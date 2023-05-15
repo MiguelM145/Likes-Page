@@ -1,0 +1,98 @@
+*{
+    margin: 0px;
+
+}
+
+.box{
+    width: contain; 
+    height: 200px;
+    border: 3px solid black; 
+    display:flex;
+    flex-direction:column; 
+    align-items: center; 
+    margin-bottom: 30px; 
+    text-align: center; 
+}
+
+.boxdiv{
+    width: 800px;
+    height: 50%;
+    display: flex;
+    justify-content: space-around;  
+    align-items: center; 
+}
+
+.like{
+    height: 40px;
+    font-size: 20px; 
+    background-color: yellow;
+    border: 2px solid black;
+    box-shadow: 5px 5px black; 
+    width: 70px; 
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold; 
+}
+
+nav{
+    background-color: black; 
+    width: 1300px;
+    height: 100px; 
+    display: flex;
+    align-items: center; 
+}
+
+header{
+    display:flex;
+    flex-direction:column;
+    align-items: center; 
+    margin-bottom: 30px; 
+}
+
+#title{
+    color: white;
+    font-size: 50px;
+    margin-left: 50px; 
+}
+
+#title1{
+    margin-top: 20px; 
+    display: block; 
+    font-size: 50px; 
+}
+
+#container{
+    width: 1300px;
+    display: flex; 
+}
+
+main{
+    display: flex;
+    justify-content: center; 
+}
+
+#column1{
+    width: 30%;  
+}
+
+#column2{
+    width: 70%;  
+    padding-left: 30px; 
+}
+
+#profilepic{
+    height: 120px; 
+}
+
+div#column1 div.box{
+    height: 400px; 
+   
+}
+
+#link{
+    font-size: 25px; 
+    margin-bottom: 40px; 
+}
+
